@@ -1,1 +1,3 @@
 Hello, my name is Jibriel Ustarz and I am working on hw1
+
+Hello, our names are “Jibriel Ustarz” and “Sunjay Guttikonda” and we are working on hw5 together.
